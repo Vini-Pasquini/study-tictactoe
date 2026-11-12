@@ -6,3 +6,13 @@ body {
   max-width: 38rem;
   padding: 2rem;
 }
+
+.square {
+  background-color: #fff;
+  aspect-ratio: 1/1;
+  width: 5%;
+}
+
+.board-row {
+  background-color: #fff;
+}
