@@ -242,7 +242,7 @@ module.exports = require("events");
 /******/ 	__webpack_require__.hmrF = () => ("main_window." + __webpack_require__.h() + ".hot-update.json");
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
-/******/ 	__webpack_require__.h = () => ("f38473701a87d43b7875");
+/******/ 	__webpack_require__.h = () => ("bbe6ffd08fdd9a52c646");
 /******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop));
@@ -729,10 +729,6 @@ module.exports = require("events");
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	__webpack_require__.p = "/";
-/******/ 	
-/******/ 	/* webpack/runtime/compat */
-/******/ 	
-/******/ 	if (typeof __webpack_require__ !== 'undefined') __webpack_require__.ab = "C:\\Users\\viniciusrodrigues\\Documents\\projetos\\estudo-jogo-da-velha\\.webpack\\renderer" + "/native_modules/";
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
 /******/ 	(() => {

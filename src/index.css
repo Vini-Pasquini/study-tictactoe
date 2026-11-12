@@ -15,4 +15,5 @@ body {
 
 .board-row {
   background-color: #fff;
+  display: flex;
 }
