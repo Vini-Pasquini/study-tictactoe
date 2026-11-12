@@ -144,3 +144,6 @@ vite.config.ts.timestamp-*
 
 # Electron-Forge
 out/
+
+.webpack/renderer/*hot-update.json
+.webpack/renderer/*hot-update.js
